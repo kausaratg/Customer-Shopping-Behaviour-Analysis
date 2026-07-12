@@ -33,7 +33,7 @@ The retail company wanted to better understand customer shopping behavior in ord
 * Evaluate promotional incentives for Express Shipping to determine whether they can increase average order value while maintaining profitability.
 
 ## Repository Structure
-
+```text
 ├── customer_shopping_behaviour/
 ├── notebooks/
 │   └── customer_behaviour.ipynb
@@ -45,5 +45,5 @@ The retail company wanted to better understand customer shopping behavior in ord
 │   └── Customer Shopping Behavior Analysis.pdf
 │   └── Customer Shopping Behavior Analysis.pptx
 └── README.md
-
+```
 
