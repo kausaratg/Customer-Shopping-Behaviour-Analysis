@@ -37,12 +37,14 @@ The retail company wanted to better understand customer shopping behavior in ord
 ├── customer_shopping_behaviour/
 ├── notebooks/
 │   └── customer_behaviour.ipynb
+    └── customer_behavior.csv
 ├── sql/
 │   └── customer_shopping.sql
 ├── dashboard/
 │   └── customer_behaviour_dashboard.pbix
 ├── documentation/
 │   └── Customer Shopping Behavior Analysis.pdf
+│   └── Customer Shopping Behavior Analysis.docs
 │   └── Customer Shopping Behavior Analysis.pptx
 └── README.md
 ```
