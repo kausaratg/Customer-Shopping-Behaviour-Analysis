@@ -14,7 +14,8 @@ The retail company wanted to better understand customer shopping behavior in ord
 * Measure the impact of customer subscriptions.
 * Support data-driven marketing and inventory decisions.
 
-
+<img src="images/dashboard.png" width="800" alt="Sales Dashboard">
+ 
 ## Key Insights
 * The Clothing category generated the highest revenue ($104,262), contributing 45% of total revenue, indicating that a significant share of sales depends on a single product category.
 * Male customers generated 68% of total revenue ($157,890), while Adult customers (26–45) generated approximately 2.5× more revenue than Young Adults (18–25).
